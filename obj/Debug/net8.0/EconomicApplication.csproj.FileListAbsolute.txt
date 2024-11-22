@@ -1,0 +1,8 @@
+C:\Users\ULBS\Documents\GitHub\Popa_Razvan_BI2_Test2\APP1\obj\Debug\net8.0\EconomicApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULBS\Documents\GitHub\Popa_Razvan_BI2_Test2\APP1\obj\Debug\net8.0\EconomicApplication.AssemblyInfoInputs.cache
+C:\Users\ULBS\Documents\GitHub\Popa_Razvan_BI2_Test2\APP1\obj\Debug\net8.0\EconomicApplication.AssemblyInfo.cs
+C:\Users\ULBS\Documents\GitHub\Popa_Razvan_BI2_Test2\APP1\obj\Debug\net8.0\EconomicApplication.csproj.CoreCompileInputs.cache
+C:\Users\ULBS\Documents\GitHub\Popa_Razvan_BI2_Test2\EnonomicApplication\obj\Debug\net8.0\EconomicApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULBS\Documents\GitHub\Popa_Razvan_BI2_Test2\EnonomicApplication\obj\Debug\net8.0\EconomicApplication.AssemblyInfoInputs.cache
+C:\Users\ULBS\Documents\GitHub\Popa_Razvan_BI2_Test2\EnonomicApplication\obj\Debug\net8.0\EconomicApplication.AssemblyInfo.cs
+C:\Users\ULBS\Documents\GitHub\Popa_Razvan_BI2_Test2\EnonomicApplication\obj\Debug\net8.0\EconomicApplication.csproj.CoreCompileInputs.cache
